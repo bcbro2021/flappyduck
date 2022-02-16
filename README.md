@@ -10,5 +10,6 @@ cd flappyduck
 ```
 ## dependencies
 ```
+g++ compiler
 lsfml 2.5
 ```
