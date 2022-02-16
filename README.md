@@ -11,4 +11,4 @@ cd flappyduck
 ## dependencies
 ```
 lsfml 2.5
-'''
+```
